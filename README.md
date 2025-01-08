@@ -1,1 +1,1 @@
-# cybersecurity_certificates_-_Projects
+# cybersecurity_certificates_and_Projects
