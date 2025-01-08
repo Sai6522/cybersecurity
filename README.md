@@ -9,7 +9,7 @@ Welcome to my Cybersecurity Portfolio! This repository showcases my certificatio
 I have earned the following certifications, with links to the images of my certificates:
 
 1. **browser attacks protection**  
-   ![cybersecurity_Certifications/browser attacks protection.jpg](#)  
+   ![cybersecurity_Certifications/browser attacks protection.jpg](#cybersecurity_Certifications/browser attacks protection.jpg)  
 2. **Google Digital Leader Certification**  
    ![Certificate Link](#)  
 3. **Oracle Cloud Infrastructure 2024 Generative AI Professional**  
