@@ -8,14 +8,28 @@ Welcome to my Cybersecurity Portfolio! This repository showcases my certificatio
 
 I have earned the following certifications, with links to the images of my certificates:
 
-1. **browser attacks protection**  
-   ![](cybersecurity_Certifications/browser attacks protection.jpg)  
-2. **Google Digital Leader Certification**  
-   ![Certificate Link](#)  
-3. **Oracle Cloud Infrastructure 2024 Generative AI Professional**  
-   ![Certificate Link](#)  
-4. **Salesforce Trailhead Certifications**  
-   ![Certificate Link](#)
+1. **Browser Attacks Protection**  
+   ![Browser Attacks Protection](cybersecurity_Certifications/browser%20attacks%20protection.jpg)  
+2. **Cisco Cyber Security**  
+   ![Cisco Cyber Security](cybersecurity_Certifications/cisco%20cyber%20security.png)  
+3. **CodeRed Cyber Security Certification**  
+   ![CodeRed](cybersecurity_Certifications/codered.png)  
+4. **Cyber Hygiene by Metty**  
+   ![Cyber Hygiene](cybersecurity_Certifications/cyber%20hygiene%20by%20metty.png)  
+5. **Cyber Security Commands**  
+   ![Cyber Security Commands](cybersecurity_Certifications/cyber%20security%20commands.png)  
+6. **Cybersecurity Analyst**  
+   ![Cybersecurity Analyst](cybersecurity_Certifications/cybersecurity_analyst.png)  
+7. **ISC2 Self-Paced Training**  
+   ![ISC2 Self-Paced Training](cybersecurity_Certifications/isc2-self%20paced%20training.png)  
+8. **Kali Fundamentals**  
+   ![Kali Fundamentals](cybersecurity_Certifications/kali%20fundamentals.jpg)  
+9. **Linux Foundation Cybersecurity Certification**  
+   ![Linux Foundation](cybersecurity_Certifications/linux_foundation.png)  
+10. **Palo Alto Cyber Security Certification**  
+    ![Palo Alto Cyber Security](cybersecurity_Certifications/palo%20alto%20cyber.png)  
+11. **Penetration Testing and Ethical Hacking**  
+    ![Penetration Testing](cybersecurity_Certifications/penetration_testing%20and%20ethical_hacking.png)  
 
 ---
 
@@ -60,13 +74,11 @@ Here are some of the key projects I have completed:
 
 Below are links to my internship experiences and related work:
 
-1. **Infosys Internship (AI/ML Project - AI-powered Company Info Extractor)**  
-   - Led a team of three, implemented agile methodologies, and developed an AI-powered tool.  
-   - [Internship Details](#)
+1. **AICTE Cybersecurity Internship**  
+   ![AICTE CS Internship](cybersecurity_internship/AICTE%20CS%20Internship.jpg)  
 
-2. **Infosys Springboard Internship (Team Lead)**  
-   - Collaborated remotely with diverse team members to complete a project following Scrum practices.  
-   - [Internship Details](#)
+2. **APSSDC Cybersecurity Internship**  
+   ![APSSDC Cybersecurity](cybersecurity_internship/apssdc-cs.jpg)  
 
 ---
 
