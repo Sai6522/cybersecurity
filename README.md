@@ -52,21 +52,14 @@ I am preparing to write the **Global Certification from ISC2** this year to furt
 
 Here are some of the key projects I have completed:
 
-1. **Network Vulnerability Scanner**  
-   - Developed a scanner that detects vulnerabilities in a network using Python and Nmap.  
-   - [Project Link](#)
+1. **Steganography-in-Action**  
+   - Hiding the text inside the image for encryption and privacy and data protection and Integrity.  
+   - [Project Link](https://github.com/Sai6522/Steganography-in-Action)
 
 2. **Keylogger Implementation**  
    - Designed a keylogger for educational purposes to study system vulnerabilities and improve data security protocols.  
-   - [Project Link](#)
+   - [Project Link](https://github.com/Sai6522/Keyloggers-Security)
 
-3. **Password Manager with Crack Resistance**  
-   - Built a secure password manager with features to resist common password-cracking techniques.  
-   - [Project Link](#)
-
-4. **Bug Bounty Reports**  
-   - Submitted multiple bug bounty reports on major tech platforms and successfully identified security flaws.  
-   - [Project Link](#)
 
 ---
 
